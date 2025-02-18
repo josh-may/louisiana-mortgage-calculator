@@ -18,5 +18,3 @@ The most comprehensive mortgage calculator for Illinois homebuyers and homeowner
 - **Interactive Amortization Schedule**: Visualize your loan payoff journey
 - **Down Payment Analysis**: Find the optimal down payment for your situation
 - **Mobile-Friendly**: Access from any device, anywhere
-
-## Getting Started
