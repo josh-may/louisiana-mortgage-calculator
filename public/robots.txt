@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.mortgagecalculatorillinois.com/
+
+# Sitemaps
+Sitemap: https://www.mortgagecalculatorillinois.com/sitemap.xml
